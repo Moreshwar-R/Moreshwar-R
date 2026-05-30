@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Moreshwar-R/Moreshwar-R/main/banner.png" alt="Moreshwar R Banner" width="100%"/>
+  <img src="./assets/banner.png" alt="Moreshwar R Banner" width="100%">
 </p>
 
 ---
