@@ -29,6 +29,12 @@
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
   &nbsp;&nbsp;
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+  &nbsp;&nbsp;
+  <img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/matlab.png" alt="MATLAB"/>
+  &nbsp;&nbsp;
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/>
+  &nbsp;&nbsp;
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
 </p>
 
 ---
